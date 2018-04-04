@@ -1,0 +1,22 @@
+h1 {
+	color: blue; 
+
+}
+h2 {
+	color: red;
+}
+h3 {
+	color: green;
+}
+body{
+	color: orange;
+}
+
+.jumbotron {
+	width: 700px;
+	height: 362px;
+	background-image: url(https://cdn1.medicalnewstoday.com/content/images/articles/308/308796/mixed-fruits.jpg);
+}
+
+
+
